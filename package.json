@@ -1,0 +1,9 @@
+{
+  "name": "github-actions-experiment",
+  "version": "1.0.0",
+  "description": "Experiment 07 - GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js",
+    "build": "node build.js"
+  }
